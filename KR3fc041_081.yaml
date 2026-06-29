@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc041/tls/v1/juan/81
+seq: 81
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 求一算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc041.xml
+hash: sha256:8a33b108e48f7559b2e079f754f33d9c51f606d9e728ee5d3f633071f7f72be4

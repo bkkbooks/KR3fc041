@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc041/tls/v1/juan/180
+seq: 180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右行第七數四十一得一千四百八十一為右行第九數又置右行第九數一千四百八十一以左行第九數一乘之得一千四百八十一加入右行第八數七百二十得二千二百一為右行第十數又置右行第十數二千二百一以左行第十數二乘之得四千四百二加入右行第九數一千四百八十一得五千八百八十三為右行第十一數即因數得等數八因數五千八百八十三蔀數八千八十四乃置閏縮二萬五千三百二十以等數八約之得三千一百六十五以因數五千八百八十三乘之得一千八百六十一萬九千六百九十五滿蔀數八千八
+  hash: sha256:7f49590bd1c0150fa5a3f034a0f59e35140626cc3cc30b0464f8e3fbc9fabab7
+metadata:
+  title: 求一算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc041.xml
+hash: sha256:6f66af994d79733a190f97ad9b12ea3414f9766b207d691d70452eace3f67fc5

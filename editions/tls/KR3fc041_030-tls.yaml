@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc041/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 母五得一十五以乘丙定母七得一百五爲衍母置衍母三位各以定母除之甲得三十五乙得二十一丙得一十五各爲衍數
+  hash: sha256:133afa79becb02783b1f4d37e58eb10f92b0f94bef6e05c2c862885e8c049af1
+metadata:
+  title: 求一算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc041.xml
+hash: sha256:07806cc048d81e990f2ad9970a01e8f1280378cd0d0c6e1b7bf7800331d48460

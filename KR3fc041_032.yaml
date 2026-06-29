@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc041/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置各衍數各以定母除去之甲得二乙得一丙得一各為奇數視乙丙二位奇數皆得一不求乘率即以衍數為用數甲奇數二當求乘率依大衍求一術入之列甲奇數二於上甲定母三於下以上二除下三得一為第一數下餘一又以下一除上二得一為第二數須令有餘故一除二得一上餘一得第一數一第二數一列第一數一第二數一于左行立天元一為右行第一數以左行第一數一乘之得一為右行第二數又置右行第二數一以左行第二數一乘之得一加入右行第一數一得二為右行第三數即甲乘率
+  hash: sha256:a68c08a212ea548eafdfb7b1dcc3aef83990937f4c1957cecc1894f4f8c342c0
+metadata:
+  title: 求一算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc041.xml
+hash: sha256:e19e3b8c054919464f99a9c03e7db93dde760c6172eaaaeb597e43621b81602e

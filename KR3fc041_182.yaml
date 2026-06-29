@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc041/tls/v1/juan/182
+seq: 182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十四去之餘二千二百四十三為乘元限數以乘氣元率四萬三千八百得九千八百二十四萬三千四百為朔積年以入元歲八千四十加之得九千八百二十五萬一千四百四十為上元己亥距至元辛巳後已亥積年減一十八年餘九千八百二十五萬一千四百二十二即上元己亥距至元十八年辛巳積算也合問江寧顧晴崖家刻
+  hash: sha256:dad3386503a016db6636696003668948340f22e36d99ddbfcdfd13b6af5b6c72
+metadata:
+  title: 求一算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc041.xml
+hash: sha256:5494b91a015c1ce717e98ae0492f5983f03e417f8ab8c0ceb46f8210ca2bcdc8

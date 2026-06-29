@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc041/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以甲乘率二乘甲衍數三十五得七十爲甲用數乙衍數二十一丙衍數一十五卽爲用數乃置元問賸數二三二亦列甲乙丙三位各乘用數甲得一百四十乙得六十三丙得三十各爲總并各置總數以衍母一百五除去之餘二十三卽物數也合問今有物不知其數四四數之賸一六六數之賸五八八數之賸一問物幾何答曰一十七草曰列元問全數四六八爲甲乙丙三位依連環相約術約之先以甲四與乙六求等得二以約乙六得三四六皆偶數若約四得二仍是偶數則與六仍有等故約六得三爲奇數卽與四無等又以甲四與丙八求等得四以約甲四得一此所
+  hash: sha256:52e67bb836ee1767c79aced6ad38f42c27965b9ba288a4fbd41f2a3be5b5f6a9
+metadata:
+  title: 求一算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc041.xml
+hash: sha256:b9d0926e9fd83639577d60e2bb0f83819ada7a9e58c347e42c448f7cb2243f4c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc041/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列第一數一第二數一於左行立天元一為右行第一數以左行第一數一乘之得一為右行第二數又置右行第二數一以左行第二數一乘之得一加入右行第一數一得二為右行第三數即乙乘率次求丙乘率列丙奇數三於上丙定母八於下以上三除下八得二為第一數下餘二又以下二除上三得一為第二數上餘一即止不除得第一數二第二數一列第一數二第二數一於左行立天元一為右行第一數以左行第一數二乘之得二為右行第二數又置右行第二數二以左行第二數一乘之得二加入右行第一數一得三為右行第三數即丙乘率以各乘率與各衍數相乘乙乘率二乘乙衍數八得
+  hash: sha256:e0826289d360d3f32e5b7bc02d496667d38adf582d24923e6c85e92c9093e548
+metadata:
+  title: 求一算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc041.xml
+hash: sha256:176b4fbe2e97bfe7efd8abde7dba2a4d0c7e4db0c5bb7eb07b6bb6bc18a43ddf
