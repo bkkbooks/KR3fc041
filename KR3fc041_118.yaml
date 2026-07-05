@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 置總數滿衍母去之餘九千四百五十五即上元盡熹平三年甲寅積歲置積歲九千四百五十五減一餘九千四百五十四滿六十去之餘三十四反減六十餘二十六命起甲寅算外得庚辰即上元太歲所在也合問
-  hash: sha256:40ccb40e316b6bbb36f5e1b08176ca989458f3caa9b571eec617c965e1cacc47
+  text: 置總數滿衍母去之餘九千四百五十五卽上元盡熹平三年甲寅積歲置積歲九千四百五十五減一餘九千四百五十四滿六十去之餘三十四反減六十餘二十六命起甲寅算外得庚辰卽上元太歲所在也合問
+  hash: sha256:8362e24a02623b48715011324cc6657a5c373a8fdd50168ab6996f7317951ec0
 metadata:
   title: 求一算術
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc041.xml
-hash: sha256:3128012a8bb3b9f09b36da79d1d3710d5aad180cdeea7a6e1f2efdf12190c146
+hash: sha256:55cf3367d030dc15ececade1f40f1946ad5f52896f91fedc0b8d9974c062ffaf
