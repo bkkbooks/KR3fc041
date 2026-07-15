@@ -17,13 +17,16 @@ markers:
   - {type: line-break, offset: 88, content: '', id: KX_14_dup65, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 108, content: '', id: KR3fc041_tls_001-p77.s15}
   - {type: line-break, offset: 108, content: '', id: KX_15_dup63, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 116, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 128, content: '', id: KR3fc041_tls_001-p77.s16}
   - {type: line-break, offset: 128, content: '', id: KX_16_dup61, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 147, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 148, content: '', id: KR3fc041_tls_001-p77.s17}
   - {type: line-break, offset: 148, content: '', id: KX_17_dup66, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 168, content: '', id: KR3fc041_tls_001-p77.s18}
   - {type: line-break, offset: 168, content: '', id: KX_18_dup65, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: substitution, offset: 180, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: 'tls:seg', offset: 188, content: '', id: KR3fc041_tls_001-p77.s19}
   - {type: line-break, offset: 188, content: '', id: KX_19_dup62, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:11661257f8eac8218ced80a9bd65e0ab11a30bcbf76d00a40093eb34e5e7abcf
+hash: sha256:05ad0990d7c3c9b0f3307ef8346f85f53393c7b8efa627ae03002c5fd857670a

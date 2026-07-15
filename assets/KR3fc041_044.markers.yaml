@@ -7,21 +7,29 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_3_dup20, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fc041_tls_001-p21.s4}
   - {type: line-break, offset: 20, content: '', id: KX_4_dup20, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 24, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc041_tls_001-p21.s5}
   - {type: line-break, offset: 40, content: '', id: KX_5_dup18, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 40, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 56, content: '', id: KR3fc041_tls_001-p21.s9}
   - {type: line-break, offset: 56, content: '', id: KX_9_dup16, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 72, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 76, content: '', id: KR3fc041_tls_001-p21.s10}
   - {type: line-break, offset: 76, content: '', id: KX_10_dup18, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 89, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 96, content: '', id: KR3fc041_tls_001-p21.s12}
   - {type: line-break, offset: 96, content: '', id: KX_12_dup19, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 116, content: '', id: KR3fc041_tls_001-p21.s13}
   - {type: line-break, offset: 116, content: '', id: KX_13_dup18, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 124, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 130, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: 'tls:seg', offset: 134, content: '', id: KR3fc041_tls_001-p21.s16}
   - {type: line-break, offset: 134, content: '', id: KX_16_dup16, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 154, content: '', id: KR3fc041_tls_001-p21.s17}
   - {type: line-break, offset: 154, content: '', id: KX_17_dup19, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: substitution, offset: 158, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 174, content: '', id: KR3fc041_tls_001-p21.s18}
   - {type: line-break, offset: 174, content: '', id: KX_18_dup19, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: substitution, offset: 174, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   back: []
-hash: sha256:8bfd75934368d1c99823e7db68d7da4ec8adff2030c7107a72bd4746c05f7c28
+hash: sha256:a3b2ff32a98896237a3513b3a98938e3f167cd3f47c243970b6c9f9bf5612f32
